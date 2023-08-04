@@ -1,3 +1,3 @@
 #!/bin/bash
-cd Documents/GitHub/hotel-club
+cd /Volumes/Kev\'z/GitHub/hotel-club/
 npm install
