@@ -1,3 +1,3 @@
 #!/bin/bash
-cd Documents/GitHub/camping
+cd Documents/GitHub/hotel-club
 npm run start
