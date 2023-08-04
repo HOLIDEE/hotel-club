@@ -155,7 +155,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Tape 'Espace' pour rejoindre l'entretien"
+                 "value":"Tape 'Espace' pour rejoindre Meet 5"
                 }, 
                 {
                  "name":"openWebsiteClosable",
@@ -231,7 +231,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Tape 'Espace' pour rejoindre l'entretien"
+                 "value":"Tape 'Espace' pour rejoindre Meet 4"
                 }, 
                 {
                  "name":"openWebsiteClosable",
@@ -307,7 +307,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Tape 'Espace' pour rejoindre l'entretien"
+                 "value":"Tape 'Espace' pour rejoindre Meet 3"
                 }, 
                 {
                  "name":"openWebsiteClosable",
@@ -383,7 +383,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Tape 'Espace' pour rejoindre l'entretien"
+                 "value":"Tape 'Espace' pour rejoindre Meet 2"
                 }, 
                 {
                  "name":"openWebsiteClosable",
@@ -459,7 +459,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Tape 'Espace' pour rejoindre l'entretien"
+                 "value":"Tape 'Espace' pour rejoindre Meet1"
                 }, 
                 {
                  "name":"openWebsiteClosable",
