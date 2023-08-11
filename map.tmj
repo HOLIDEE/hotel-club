@@ -2422,15 +2422,15 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":222,
+                 "height":163.333333333333,
                  "id":31,
                  "name":"welcomePopup",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":475,
-                 "x":124.833333333333,
-                 "y":554.166666666666
+                 "width":408.333333333333,
+                 "x":128.833333333333,
+                 "y":966.166666666666
                 }, 
                 {
                  "height":64,
